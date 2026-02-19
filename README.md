@@ -20,7 +20,7 @@ I am a results-oriented **Industrial Engineer** with a solid background in elect
 
 ## 📊 Projects & Labs
 <!-- *(Proximamente podrás enlazar tus repos de clase aquí)* -->
-- [BESS Roadmap] - Strategic planning and user stories for energy storage.
+- [BESS Roadmap] - Strategic planning and user stories for the new energy storage system [Oasys](https://v2cpower.com/). Powered by AI to analyze, forecast, and optimize usage to maximize efficiency.
 <!-- - [Data-Pipeline-X] - (Ejemplo) Ingestión de datos en tiempo real con Kafka. -->
 
 ## 📫 Connect with me
