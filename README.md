@@ -8,13 +8,13 @@ I am a results-oriented **Industrial Engineer** with a solid background in elect
 
 ## 🚀 Current Focus
 - 🔭 **Working at:** [V2C](https://v2c.es/) as a **Project Manager**, leading the roadmap for new BESS (Battery Energy Storage Systems).
-- 🌱 **Learning:** Mastering **Big Data** ecosystems (Spark, Kafka, dbt) and **Cloud** architectures at [EDEM](https://edem.es/).
+- 🌱 **Learning:** Mastering **Big Data** ecosystems (Spark, Kafka, DBT) and **Cloud** architectures at [EDEM](https://edem.es/).
 - ⚡ **Goal:** Building scalable data-driven solutions for the industrial and energy sectors.
 
 ## 🛠️ Tech Stack & Skills
 - **Languages:** Python, Java, SQL, C.
-- **Data Engineering:** PySpark, Apache Kafka, dbt (Data Build Tool).
-- **Cloud & DevOps:** Docker, API Management, GitHub.
+- **Data Engineering:** PySpark, Apache Kafka, DBT (Data Build Tool).
+- **Cloud & DevOps:** Docker, API Management, GitHub, GCP, AWS, Azure.
 - **Data Visualization:** Power BI, Tableau.
 - **Management:** Agile Methodologies, Jira, SAP, Dynamics 365.
 
@@ -29,7 +29,7 @@ I am a results-oriented **Industrial Engineer** with a solid background in elect
 - 📍 Valencia, Spain
 
 ---
-"The best way to predict the future is to create it."
+Time doesn't hear if you ask it to wait! 
 
 <!--
 **saulhkd/saulhkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
