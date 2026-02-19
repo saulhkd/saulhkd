@@ -21,7 +21,7 @@ I am a results-oriented **Industrial Engineer** with a solid background in elect
 ## 📊 Projects & Labs
 <!-- *(Proximamente podrás enlazar tus repos de clase aquí)* -->
 - [BESS Roadmap] - Strategic planning and user stories for energy storage.
-- [Data-Pipeline-X] - (Ejemplo) Ingestión de datos en tiempo real con Kafka.
+<!-- - [Data-Pipeline-X] - (Ejemplo) Ingestión de datos en tiempo real con Kafka. -->
 
 ## 📫 Connect with me
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/sa%C3%BAl-mart%C3%ADnez-carri%C3%B3n-983088237/)
@@ -29,7 +29,7 @@ I am a results-oriented **Industrial Engineer** with a solid background in elect
 - 📍 Valencia, Spain
 
 ---
-Time doesn't hear if you ask it to wait! 
+Time doesn't hear if you ask it to wait!⚡
 
 <!--
 **saulhkd/saulhkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
