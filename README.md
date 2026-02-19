@@ -2,7 +2,7 @@
 
 ### Industrial Engineer | MSc in Big Data & Cloud Computing
 
-I am a results-oriented **Industrial Engineer** with a solid background in electrical and data infraestructures projects. Currently, I am expanding my horizons into the world of **Data Engineering and Cloud Computing**  to bridge the gap between industrial operations and digital transformation.
+I am a results-oriented **Industrial Engineer** with a solid background in electrical and data infrastructure projects. Currently, I am expanding my horizons into the world of **Data Engineering and Cloud Computing**  to bridge the gap between industrial operations and digital transformation.
 
 ---
 
