@@ -1,4 +1,4 @@
-# Hi there! I'm Saúl Martínez 👋 
+# Hi! I am Saúl Martínez 👋 
 
 ### Industrial Engineer | MSc in Big Data & Cloud Computing
 
